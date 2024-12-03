@@ -6,6 +6,8 @@ public class Circle : Shape
 {
     private int side;
 
+    ShapNA
+
     public override float CalculateArea()
     {
         
